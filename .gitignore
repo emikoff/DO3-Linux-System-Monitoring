@@ -1,0 +1,9 @@
+# Generated system reports
+*.status
+
+# Editor and OS metadata
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
